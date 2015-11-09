@@ -1,0 +1,20 @@
+{
+  "name": "hexo-tag-cloudmusic",
+  "version": "１.0.0",
+  "description": "just a hexo tag plugin width cloudmusic",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinyuanpei/hexo-tag-cloudmusic.git"
+  },
+  "keywords": [
+    "hexo",
+    "cloudmusic"
+  ],
+  "author": "qinyuanpei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qinyuanpei/hexo-tag-cloudmusic/issues"
+  },
+  "homepage": "https://github.com/qinyuanpei/hexo-tag-cloudmusic",
+}
