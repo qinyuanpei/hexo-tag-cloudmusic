@@ -28,8 +28,6 @@ height: 32　## Set the widget height if widgetType is irfame and widgetSize is 
 {% cloudmusic 20744788 %}
 ```
 
-# 中文说明
--------------
 # hexo-tag-cloudmusic
 这是一个为Hexo编写的网易云音乐标签插件
 
