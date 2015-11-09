@@ -36,7 +36,7 @@ height: 32　## Set the widget height if widgetType is irfame and widgetSize is 
 hexo-tag-cloudmusic是一个为Hexo编写的网易云音乐标签插件，它允许你以标签的形式在页面和文章中插入网易云音乐的widget。它支持iframe和flash两种形式的widget，你只需要在页面或者文章中使用{% cloudmusic sid%}这样的结构就可以在网页中展示一个网易云音乐的widget，这里的sid可以是单曲的ID或者是歌单的ID，一切都取决于你。在博客的配置文件中你可以进一步配置该插件的具体细节。
 
 
-## Installation
+## 安装
 
 安装hexo-tag-cloudmusic非常地简单，你只需要使用下面的命令：
 ```
