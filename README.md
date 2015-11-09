@@ -8,12 +8,12 @@ This is a hexo tag plugin for cloudmusic
 
 ## Installation
 
-To install, run the following command in the root directory of hexo:
+To install, run the following command in the root directory of hexo
 ```
 npm install hexo-tag-cloudmusic --save
 ```
 
-To config if you need in the __config.yml of Hexo:
+To config if you need in the __config.yml of hexo
 ```
 # CloudMusic
 widgetType:  flash ## It can be flash or iframe
