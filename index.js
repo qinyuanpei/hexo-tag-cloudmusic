@@ -13,16 +13,12 @@ hexo.extend.tag.register('cloudmusic', function(args){
   var widgetType = hexo.config.widgetType || 'flash';
   var widgetSize = config.widgetSize || 'small';
   var autoPlay = config.autoPlay || 1;
-  var width = config.width || 278;
-  var height = config.height || 32;
 
   if(widgetType == 'iframe'){
   	if(widgetSize=='small'){
   		return '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="http://music.163.com/outchain/player?type=2&id=' + sid + '&auto=' + autoPlay +'&height=32"></iframe>';
   	}else if(widgetSize=='big'){
   		return '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=351 height=86 src="http://music.163.com/outchain/player?type=2&id=' + sid + '&auto=' + autoPlay + '&height=66"></iframe>';
-  	}else if(widgetSize=='custom'){
-  		return '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=' + width +' height=' + height +' src="http://music.163.com/outchain/player?type=2&id=' + sid + '&auto=' + autoPlay + '&height=66"></iframe>';
   	}
   }else{
   	if(widgetSize=='small'){
