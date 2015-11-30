@@ -1,10 +1,10 @@
 /**
 * hexo-tag-cloudmusic
-* https://github.com/Z4Tech/hexo-tag-bilibili.git
-* Copyright (c) 2015, Z4Tech
+* https://github.com/qinyuanpei/hexo-tag-cloudmusic.git
+* Copyright (c) 2015, qinyuanpei
 * Licensed under the MIT license.
 * Syntax:
-* {% bilibili [av_id] %} or {% bilibili [av_id] [page] %}
+* {% cloudmusic [s_id] [single] %} or {% cloudmusic [s_id] [group] %}
 */
 
 hexo.extend.tag.register('cloudmusic', function(args){
