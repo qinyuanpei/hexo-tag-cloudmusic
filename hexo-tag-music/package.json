@@ -1,11 +1,11 @@
 {
-  "name": "hexo-tag-cloudmusic",
+  "name": "hexo-tag-music",
   "version": "１.0.0",
   "description": "a tag plugin for Hexo",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qinyuanpei/hexo-tag-cloudmusic.git"
+    "url": "git+https://github.com/qinyuanpei/hexo-tag-music.git"
   },
   "keywords": [
     "hexo",
@@ -14,7 +14,7 @@
   "author": "qinyuanpei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qinyuanpei/hexo-tag-cloudmusic/issues"
+    "url": "https://github.com/qinyuanpei/hexo-tag-music/issues"
   },
-  "homepage": "https://github.com/qinyuanpei/hexo-tag-cloudmusic",
+  "homepage": "https://github.com/qinyuanpei/hexo-tag-music",
 }
