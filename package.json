@@ -1,7 +1,7 @@
 {
   "name": "hexo-tag-cloudmusic",
   "version": "１.0.0",
-  "description": "just a hexo tag plugin width cloudmusic",
+  "description": "a tag plugin for Hexo",
   "main": "index.js",
   "repository": {
     "type": "git",
