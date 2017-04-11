@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-cloudmusic",
-  "version": "１.0.0",
+  "version": "1.0.2",
   "description": "a tag plugin for Hexo",
   "main": "index.js",
   "repository": {
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/qinyuanpei/hexo-tag-cloudmusic/issues"
   },
-  "homepage": "https://github.com/qinyuanpei/hexo-tag-cloudmusic",
+  "homepage": "https://github.com/qinyuanpei/hexo-tag-cloudmusic"
 }
