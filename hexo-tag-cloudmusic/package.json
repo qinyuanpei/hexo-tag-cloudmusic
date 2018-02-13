@@ -1,6 +1,5 @@
 {
   "_from": "hexo-tag-cloudmusic",
-  "_id": "hexo-tag-cloudmusic@1.2.1",
   "_inBundle": false,
   "_integrity": "sha1-G87MHks86sOTbUEoLFtdo94nfaU=",
   "_location": "/hexo-tag-cloudmusic",
@@ -23,9 +22,7 @@
   "_shasum": "1bcecc1e4b3ceac3936d41282c5b5da3de277da5",
   "_spec": "hexo-tag-cloudmusic",
   "_where": "E:\\Projects\\qinyuanpei.github.io",
-  "author": {
-    "name": "qinyuanpei"
-  },
+  "author": "qinyuanpei",
   "bugs": {
     "url": "https://github.com/qinyuanpei/hexo-tag-cloudmusic/issues"
   },
@@ -44,5 +41,8 @@
     "type": "git",
     "url": "git+https://github.com/qinyuanpei/hexo-tag-cloudmusic.git"
   },
-  "version": "1.2.2"
+  "version": "1.2.2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
