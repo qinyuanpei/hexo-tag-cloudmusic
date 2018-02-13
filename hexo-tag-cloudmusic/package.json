@@ -1,20 +1,48 @@
 {
-  "name": "hexo-tag-cloudmusic",
-  "version": "1.0.2",
-  "description": "a tag plugin for Hexo",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/qinyuanpei/hexo-tag-cloudmusic.git"
+  "_from": "hexo-tag-cloudmusic",
+  "_id": "hexo-tag-cloudmusic@1.2.1",
+  "_inBundle": false,
+  "_integrity": "sha1-G87MHks86sOTbUEoLFtdo94nfaU=",
+  "_location": "/hexo-tag-cloudmusic",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-tag-cloudmusic",
+    "name": "hexo-tag-cloudmusic",
+    "escapedName": "hexo-tag-cloudmusic",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-tag-cloudmusic/-/hexo-tag-cloudmusic-1.2.1.tgz",
+  "_shasum": "1bcecc1e4b3ceac3936d41282c5b5da3de277da5",
+  "_spec": "hexo-tag-cloudmusic",
+  "_where": "E:\\Projects\\qinyuanpei.github.io",
+  "author": {
+    "name": "qinyuanpei"
+  },
+  "bugs": {
+    "url": "https://github.com/qinyuanpei/hexo-tag-cloudmusic/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "just a hexo tag plugin width cloudmusic",
+  "homepage": "https://github.com/qinyuanpei/hexo-tag-cloudmusic",
   "keywords": [
     "hexo",
     "cloudmusic"
   ],
-  "author": "qinyuanpei",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/qinyuanpei/hexo-tag-cloudmusic/issues"
+  "main": "index.js",
+  "name": "hexo-tag-cloudmusic",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinyuanpei/hexo-tag-cloudmusic.git"
   },
-  "homepage": "https://github.com/qinyuanpei/hexo-tag-cloudmusic"
+  "version": "1.2.2"
 }
