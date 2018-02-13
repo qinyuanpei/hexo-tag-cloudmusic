@@ -41,7 +41,7 @@
     "type": "git",
     "url": "git+https://github.com/qinyuanpei/hexo-tag-cloudmusic.git"
   },
-  "version": "1.2.2",
+  "version": "1.2.3",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }

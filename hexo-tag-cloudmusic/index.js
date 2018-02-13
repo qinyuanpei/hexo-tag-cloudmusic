@@ -1,15 +1,10 @@
-/**
+﻿/**
 * hexo-tag-cloudmusic
 * https://github.com/qinyuanpei/hexo-tag-cloudmusic.git
 * Copyright (c) 2015, qinyuanpei
 * Licensed under the MIT license.
 * Syntax:
 * {% cloudmusic id=[sid]...%}
-
-for (var i in args) {
-  var k = args[i].split('=')[0],
-
-      v = args[i].split("=").length < 2 ? "true" : args[i].slice(args[i].indexOf('=')+1);
 */
 
 hexo.extend.tag.register('cloudmusic', function(args){
@@ -20,8 +15,8 @@ hexo.extend.tag.register('cloudmusic', function(args){
   config.widgetSize = 'large'; //默认为large
 
   for (var arg in args){
-    var key = args[i].split('=')[0];
-    var value = args[i].split('=')[1];
+    var key = arg.split('=')[0];
+    var value = arg.split('=')[1];
     if(key == 'id') config.sid = value;
     if(key == 'isSingle') config.isSingle = value;
     if(key == 'autoPlay') config.autoPlay = value;
